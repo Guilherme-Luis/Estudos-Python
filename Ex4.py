@@ -1,0 +1,8 @@
+print("Insert your SUSSY BAKA NOTES")
+print("-" * 25)
+G = int(input("First Note: "))
+X = int(input("Second Note: "))
+Y = int(input("Third Note: "))
+Z = int(input("fourth Note: "))
+print("-" * 25)
+print(f"Your media is: {((G + X + Y + Z) /4)}")
